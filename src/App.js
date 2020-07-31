@@ -1,13 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import Users from './Users';
-import data from './assets/Test JSON.json'
 
 function App() {
 
   const [userData, setUserData] = useState()
 
   useEffect(() => {
-    fetch(data).then(data => data.json()).then(response => {
+    fetch("http://localhost:3004/members").then(data => data.json()).then(response => {
       setUserData([...response])
     })
   }, [])
