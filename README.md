@@ -3,6 +3,8 @@ Install json-server with command "npm i -g json-server"
 
 Run json file with command under path "json-server "Test JSON.json" --watch --port 3004"
 
+## Scripts to run React Application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
