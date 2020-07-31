@@ -1,7 +1,10 @@
+# Guidelines to start the appliation
+Require to install Node js which is available in https://nodejs.org/en/
+
 ## Install Json-server 
 Install json-server with command "npm i -g json-server"
 
-Run json file with command under path "json-server "Test JSON.json" --watch --port 3004"
+Run json file which is available under "src/assets" with command under path "json-server "Test JSON.json" --watch --port 3004"
 
 ## Scripts to run React Application
 
