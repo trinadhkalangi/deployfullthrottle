@@ -1,0 +1,207 @@
+{
+	"members": [
+		{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CHX",
+			"real_name": "Jonas",
+			"tz": "Europe/France",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CYD",
+			"real_name": "Zimping",
+			"tz": "China/Beijing",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CKF",
+			"real_name": "Spengler",
+			"tz": "Russia/Moscow",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CDG",
+			"real_name": "Emmanual",
+			"tz": "Australi/Sydney",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CMD",
+			"real_name": "John",
+			"tz": "Germany/Berlin",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CUX",
+			"real_name": "Morton",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		},
+		{
+			"id": "W012A3CHD",
+			"real_name": "Egon",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [
+				{
+					"start_time": "Feb 1 2020 1:33 PM",
+					"end_time": "Feb 1 2020 1:54 PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11 AM",
+					"end_time": "Mar 1 2020 2:00 PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33 PM",
+					"end_time": "Mar 16 2020 8:0 2PM"
+				},
+				{
+					"start_time": "Jul 31 2020 5:33 PM",
+					"end_time": "Jul 31 2020 8:02 PM"
+				}
+			]
+		}
+	]
+}
