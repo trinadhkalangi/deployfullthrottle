@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployfullthrottle/static/css/main.69eda509.chunk.css",
+    "main.js": "/deployfullthrottle/static/js/main.d8b0dfc5.chunk.js",
+    "main.js.map": "/deployfullthrottle/static/js/main.d8b0dfc5.chunk.js.map",
+    "runtime-main.js": "/deployfullthrottle/static/js/runtime-main.4479e0ff.js",
+    "runtime-main.js.map": "/deployfullthrottle/static/js/runtime-main.4479e0ff.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/deployfullthrottle/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dcd3189f.chunk.js": "/deployfullthrottle/static/js/2.dcd3189f.chunk.js",
+    "static/js/2.dcd3189f.chunk.js.map": "/deployfullthrottle/static/js/2.dcd3189f.chunk.js.map",
+    "index.html": "/deployfullthrottle/index.html",
+    "precache-manifest.7081ff8e89dc2ddce40600cbe08026ea.js": "/deployfullthrottle/precache-manifest.7081ff8e89dc2ddce40600cbe08026ea.js",
+    "service-worker.js": "/deployfullthrottle/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/deployfullthrottle/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/deployfullthrottle/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.dcd3189f.chunk.js.LICENSE.txt": "/deployfullthrottle/static/js/2.dcd3189f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4479e0ff.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.dcd3189f.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.d8b0dfc5.chunk.js"
+  ]
+}
